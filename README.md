@@ -1,13 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
-
-
-
+Currently just trying to get my life together on this website.
 
