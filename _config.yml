@@ -1,6 +1,8 @@
 theme: jekyll-theme-merlot
-
-
+<html>
+<body>
+  <h1>This is the Main Heading</h1>
+  <p> This is some information talking about the heading topic </p>
 
 
 title: Welcome to my webpage!
